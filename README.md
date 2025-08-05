@@ -16,17 +16,17 @@ https://www.youtube.com/watch?v=1NZkYH_4QL0
 
 # Screenshots:
 ### Login and Sign up:
-![](https://github.com/user-attachments/assets/7d3e8eea-2a4c-4a59-9924-8efbb7145f03)
-![](https://github.com/user-attachments/assets/6a7524c9-6d0f-433a-9c3c-1d12c24e6dd8)
+<img width="1920" height="1000" alt="loginsignup1" src="https://github.com/user-attachments/assets/863de05a-9dc0-4e45-9931-d1386501e3e6" />
+<img width="1920" height="998" alt="loginsignup2" src="https://github.com/user-attachments/assets/bbbbf1b4-953b-4dde-934c-6eb40231bae3" />
 
 ### Create a new issue:
-![](https://github.com/user-attachments/assets/8c16edda-0870-4062-9d61-cae1402eba06)
+<img width="1920" height="1000" alt="create" src="https://github.com/user-attachments/assets/0315bdfa-a116-4410-866f-a91da2da5348" />
 
 ### See resolved and unresolved issues, and search by ID, title and description:
-![](https://github.com/user-attachments/assets/bcc953cd-5653-4aaf-94d9-7b08229d0684)
+<img width="1920" height="998" alt="see" src="https://github.com/user-attachments/assets/511585d1-906c-4b8e-b0f2-28ea46015dd5" />
 
 ### Edit and delete an issue:
-![](https://github.com/user-attachments/assets/11666673-55c4-4d21-93c3-711220b3bf4b)
+<img width="1920" height="997" alt="editanddelete" src="https://github.com/user-attachments/assets/e2f1dab2-4361-498f-8943-a81db79f4759" />
 
 
 # Running the web app
